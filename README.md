@@ -7,3 +7,5 @@
 - I am a tireless person and more when it comes to learn more and crate new functionalities when coding.
 - I am a team  plyer, the results of the team are always going to make me look and feel proud and satisfied.
 - I focus on creativity more than any other skill, but I know that my creativity level is tied to my capabilites.
+  
+![](./images/gaming-gif.gif)
