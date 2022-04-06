@@ -9,3 +9,5 @@
 - I focus on creativity more than any other skill, but I know that my creativity level is tied to my capabilites.
   
 ![](./images/gaming-gif.gif)
+
+Please check my portfolio of project here (https://github.com/users/AndreLau11/projects/1/views/1)
