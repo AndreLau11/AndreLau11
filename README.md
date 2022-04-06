@@ -10,4 +10,4 @@
   
 ![](./images/gaming-gif.gif)
 
-Please check my portfolio of project here (https://github.com/users/AndreLau11/projects/1/views/1)
+Please check my portfolio of project here(https://github.com/users/AndreLau11/projects/1/views/1)
